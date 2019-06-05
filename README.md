@@ -7,7 +7,7 @@
   <li> Correção das nomenclaturas de Relations geradas pela ferramenta Gii</li>
   <li> Campos alterados do tipo texto para os tipos e-mail, number, date, textarea (quando necessário)</li>
   <li> Autenticação de usuário com o próprio framework Yii2</li>
-  <li> Todas as labels corrigidas (nos titulos, botões, breadcrumbs e campos de input)<li>
+  <li> Todas as labels corrigidas (nos titulos, botões, breadcrumbs e campos de input)</li>
   <li> Formatação dos formulários utilizando o Grid System do Bootstrap</li>
   <li> (EXTRA) Utilização de máscara em alguns inputs, como por exemplo Telefone e CNPJ </li>
 </ul>
