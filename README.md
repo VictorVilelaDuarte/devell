@@ -13,7 +13,7 @@
 </ul>
 <br><br>
 <i>Obs: Fiz também um vídeo da utilização do sistema, onde pode-se observar o funcionamento de alguns dos itens implementados, o video será enviado via e-mail para vivian.cardoso@devell.com.br, juntamente com o link para este repositório e os prints também aqui presentes. </i>
-
+<br><br>
 <p>Abaixo deixei alguns prints e as explicações de cada um deles.</p>
 
 ![Deslogado](https://user-images.githubusercontent.com/32455202/58932133-d1d7a600-8738-11e9-96bf-db3784a8dfac.jpg )
