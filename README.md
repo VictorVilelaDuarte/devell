@@ -12,7 +12,7 @@
   <li> (EXTRA) Utilização de máscara em alguns inputs, como por exemplo Telefone e CNPJ </li>
 </ul>
 <br><br>
-<i>Obs: Fiz também um vídeo da utilização do sistema, onde pode-se observar o funcionamento de alguns dos itens implementados, o video esta disponível neste link: </i>
+<i>Obs: Fiz também um vídeo da utilização do sistema, onde pode-se observar o funcionamento de alguns dos itens implementados, o video será enviado via e-mail para vivian.cardoso@devell.com.br, juntamente com o link para este repositório e os prints também aqui presentes. </i>
 
 <p>Abaixo deixei alguns prints e as explicações de cada um deles.</p>
 
