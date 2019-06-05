@@ -11,7 +11,8 @@
   <li> Formatação dos formulários utilizando o Grid System do Bootstrap</li>
   <li> (EXTRA) Utilização de máscara em alguns inputs, como por exemplo Telefone e CNPJ </li>
 </ul>
-<br>
+<br><br>
+<i>Obs: Fiz também um vídeo da utilização do sistema, onde pode-se observar o funcionamento de alguns dos itens implementados, o video esta disponível neste link: </i>
 
 <p>Abaixo deixei alguns prints e as explicações de cada um deles.</p>
 
