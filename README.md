@@ -1,4 +1,10 @@
-![Deslogado](https://user-images.githubusercontent.com/32455202/58932133-d1d7a600-8738-11e9-96bf-db3784a8dfac.jpg)
+<p>Bem-vindo ao meu projeto!</p>
+<p>Gostaria de agradecer a oportunidade de estar participando deste processo, e conforme combinado, aqui esta o meu projeto com todas as implementações solicitadas</p>
+<br>
+
+<p>Abaixo deixei alguns prints e as explicações de cada um deles.</p>
+
+![Deslogado](https://user-images.githubusercontent.com/32455202/58932133-d1d7a600-8738-11e9-96bf-db3784a8dfac.jpg )
 
 ![Logado](https://user-images.githubusercontent.com/32455202/58932145-df8d2b80-8738-11e9-937e-a7dd56d8b7e5.jpg)
 
