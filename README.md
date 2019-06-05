@@ -1,6 +1,16 @@
 <h3>Bem-vindo ao meu projeto!</h3>
 <hr>
-<p>Gostaria de agradecer a oportunidade de estar participando deste processo, e conforme combinado, aqui esta o meu projeto com todas as implementações solicitadas</p>
+<p>Gostaria, primeiramente, de agradecer a oportunidade de estar participando deste processo, e conforme combinado, aqui esta o meu projeto com todas as implementações solicitadas:</p>
+<ul>
+  <li> Todo projeto feito com o framework Yii2 (template advanced) </li>
+  <li> Criação dos Models e do <i>CRUD</i> utilizando a ferramenta Gii</li>
+  <li> Correção das nomenclaturas de Relations geradas pela ferramenta Gii</li>
+  <li> Campos alterados do tipo texto para os tipos e-mail, number, date, textarea (quando necessário)</li>
+  <li> Autenticação de usuário com o próprio framework Yii2</li>
+  <li> Todas as labels corrigidas (nos titulos, botões, breadcrumbs e campos de input)<li>
+  <li> Formatação dos formulários utilizando o Grid System do Bootstrap</li>
+  <li> (EXTRA) Utilização de máscara em alguns inputs, como por exemplo Telefone e CNPJ </li>
+</ul>
 <br>
 
 <p>Abaixo deixei alguns prints e as explicações de cada um deles.</p>
