@@ -1,4 +1,5 @@
-<p>Bem-vindo ao meu projeto!</p>
+<h3>Bem-vindo ao meu projeto!</h3>
+<hr>
 <p>Gostaria de agradecer a oportunidade de estar participando deste processo, e conforme combinado, aqui esta o meu projeto com todas as implementações solicitadas</p>
 <br>
 
