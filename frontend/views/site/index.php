@@ -7,7 +7,7 @@ $this->title = 'Devell';
 <div class="site-index">
 
     <div class="container">
-        <h2>Painel de Controle Devell</h2>
+        <h2>Painel de Controle Devell, seja bem vindo</h2>
         <br>
         <br>
         <div class="panel panel-default">
